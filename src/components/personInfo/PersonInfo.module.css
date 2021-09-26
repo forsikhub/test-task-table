@@ -1,0 +1,10 @@
+
+
+.container{
+    position:absolute;
+    left: 75%;
+    min-width: 300px;
+    border: 15px solid #18385d;
+    font-size: large;
+    text-align: center;
+}

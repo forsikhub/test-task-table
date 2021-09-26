@@ -1,0 +1,34 @@
+.table {
+    
+    cursor:pointer;
+    font-size: large;
+    text-align: center;
+    border-collapse: collapse;
+    background: #18385d;
+  }
+  .table th {
+      
+    color: #EDB749;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    padding: 10px 20px;
+  }
+  .table td {
+      
+    color:white;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    padding: 10px 20px;
+  }
+  .table tr{
+    text-align: center;
+  }
+ 
+  .table tr:hover td {
+    background-color: #040e2a ;
+  }
+  .table img{
+      display: block;
+      max-width: 25px;
+  }
+  
